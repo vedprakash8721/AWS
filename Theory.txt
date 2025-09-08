@@ -1,0 +1,7 @@
+cloud comptuting : on demand delivery of IT resources over the internet with pay as you go pricing . like server , storage , data base 
+
+Types of cloud comptuting : 
+there are three types of cloud comptuting that is 
+1: IaaS : infrastructure as a service
+2: SaaS : sofware as a service 
+3: PaaS : platform as a service
